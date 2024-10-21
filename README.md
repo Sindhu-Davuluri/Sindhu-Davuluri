@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sindhu Davuluri</h1>
+<h1 align="center">Hi 👋, I'm Sindhu</h1>
 <h3 align="center">A data-centric software engineer who's interested in working on large-scale distributed systems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUybTltaGdoenE1aWNxZXYzcWxvY3p0cnhwdWY5c2E3M3p2NGZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" />
